@@ -18,9 +18,15 @@ It's in **type-in-the-answer format** with TTS audio of the answer once you've a
 
 This deck was inspired by the excellent [80 Modern Greek Verbs Conjugation Trainer in 10 languages](https://ankiweb.net/shared/info/1072296079) deck, which is immeasurably superior in every way.  I wanted something vaguely along those lines for nouns, so I made one.
 
+**POTENTIALLY IMPORTANT ACKNOWLEDGEMENT**: I consulted A.I. for advice as well as assistance generating the CSV, although I have checked and corrected every card myself since A.I. blithely introduces errors. That is not to guarantee that there are NO errors, only to specify that any present are my own, for which I beseech your corrections.
+
+## FEATURES
+
+### Styled Cases
 I used CSS to style the names of the cases, so Nominative is blue, Genitive is Green, Accusative is Red and Vocative is bold.  I tried to ensure the colors would be ok in both dark mode and the disreputable ghetto of light mode. I also welcome feedback on the colors and/or other accessibility matters.
 
-**POTENTIALLY IMPORTANT ACKNOWLEDGEMENT**: I consulted A.I. for advice as well as assistance generating the CSV, although I have checked and corrected every card myself since A.I. blithely introduces errors. That is not to guarantee that there are NO errors, only to specify that any present are my own, for which I beseech your corrections.
+### Vocative Neuter Nouns tagged
+For neuter nouns in Modern Greek, the vocative is identical to the nominative. I have included separate cards for the neuter nouns' vocative cases BUT I have tagged them `NNV` so they can be easily filtered out if you find them tedious. 
 
 ### Optional/movable ν
 Per the 2008 [Γραμματική νέας ελληνικής γλώσσας του Γυμνασίου](https://el.wikipedia.org/wiki/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C_%CE%BD%CE%B9), whether the accusative feminine singular definite article ends in ν depends on the noun following it-- the ν is dropped if the noun begins with β, δ, γ, φ, θ, χ, μ, ν, λ, ρ, σ, or ζ. This deck honors that rule although I have laboriously constructed an "alternative answer" contingency because there does seem to be great variability in casual speech. 
