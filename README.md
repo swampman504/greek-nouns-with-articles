@@ -19,7 +19,7 @@ This deck was inspired by the excellent [80 Modern Greek Verbs Conjugation Train
 ## FEATURES
 
 ### Styled Cases
-I used CSS to style the names of the cases, so Nominative is blue, Genitive is Green, Accusative is Red and Vocative is bold.  I tried to ensure the colors would be ok in both dark mode and the disreputable ghetto of light mode. I also welcome feedback on the colors and/or other accessibility matters.
+I used CSS to style the names of the cases, so Nominative is blue, Genitive is green, Accusative is red and Vocative is bold.  I tried to ensure the colors would be ok in both dark mode and the disreputable ghetto of light mode. I also welcome feedback on the colors and/or other accessibility matters.
 
 ### Vocative Neuter Nouns tagged
 For neuter nouns in Modern Greek, the vocative is identical to the nominative. I have included separate cards for the neuter nouns' vocative cases BUT I have tagged them `NNV` so they can be easily filtered out if you find them tedious. 
