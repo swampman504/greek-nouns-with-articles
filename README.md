@@ -21,10 +21,10 @@ This deck was inspired by the excellent [80 Modern Greek Verbs Conjugation Train
 ### Styled Cases
 I used CSS to style the names of the cases, so Nominative is blue, Genitive is green, Accusative is red and Vocative is bold.  I tried to ensure the colors would be ok in both dark mode and the disreputable ghetto of light mode. I also welcome feedback on the colors and/or other accessibility matters.
 
-### Vocative Neuter Nouns tagged
+### Vocative Neuter Nouns Tagged
 For neuter nouns in Modern Greek, the vocative is identical to the nominative. I have included separate cards for the neuter nouns' vocative cases BUT I have tagged them `NNV` so they can be easily filtered out if you find them tedious. 
 
-### Optional/movable ν
+### Optional/Movable ν
 Per the 2008 [Γραμματική νέας ελληνικής γλώσσας του Γυμνασίου](https://el.wikipedia.org/wiki/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C_%CE%BD%CE%B9), whether the accusative feminine singular definite article ends in ν depends on the noun following it-- the ν is dropped if the noun begins with β, δ, γ, φ, θ, χ, μ, ν, λ, ρ, σ, or ζ. This deck honors that rule although I have laboriously constructed an "alternative answer" contingency because there does seem to be great variability in casual speech. 
 
 ### Context Reference
