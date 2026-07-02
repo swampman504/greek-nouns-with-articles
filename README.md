@@ -4,7 +4,11 @@ This is an Anki deck covering (for now) 25 frequently used Modern Greek nouns, w
 
 Each card presents the English version of a word and the case, and you, the industrious learner, enter the Greek-- always with the all-important leading pronoun (except for vocative case).
 
-** I am seeking feedback on this deck! I humbly entreat you to leave comments on how I can improve it. Once I feel like the format is really squared away I'll expand beyond 25 nouns. **
+<hr>
+
+_**I am seeking feedback on this deck!! I humbly entreat you to leave comments on how I can improve it. Once I feel like the format is really squared away I'll expand beyond 25 nouns.**_
+
+<hr>
 
 Right now it's 274 cards, which is 11 per noun: 3 (nominative/genitive/accusative cases) X 2 (singular & plural definite articles) + 3 (cases with singular indefinite article) + 2 (sing/plural vocative)... - 1 for the genitive plural of "friend" being the same regardless of the friends' genders.
 
