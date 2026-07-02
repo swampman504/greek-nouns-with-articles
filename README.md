@@ -10,11 +10,9 @@ _**I am seeking feedback on this deck!! I humbly entreat you to leave comments o
 
 <hr>
 
-It's in **type-in-the-answer format** with TTS audio of the answer once you've answered (this may be wonky/work only on MacOS, etc)
-
 ### How it's built/why etc.
 
-This deck was inspired by the excellent [80 Modern Greek Verbs Conjugation Trainer in 10 languages](https://ankiweb.net/shared/info/1072296079) deck, which is immeasurably superior in every way.  I wanted something vaguely along those lines for nouns, so I made one.
+This deck was inspired by the excellent [80 Modern Greek Verbs Conjugation Trainer in 10 languages](https://ankiweb.net/shared/info/1072296079) deck, which is immeasurably superior in every way.  I wanted something vaguely along those lines for nouns, so I made one. It's in **type-in-the-answer format** with TTS audio of the answer once you've answered (this may be wonky/work only on MacOS, etc)
 
 **POTENTIALLY IMPORTANT ACKNOWLEDGEMENT**: I consulted A.I. for advice as well as assistance generating the CSVs, although I have checked and corrected every card myself since A.I. blithely introduces errors. That is not to guarantee that there are NO errors, only to specify that any present are my own, for which I beseech your corrections.
 
