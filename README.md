@@ -45,7 +45,7 @@ The second deck is more of the same, although I tried to cover a breadth of both
 η απάντηση, ο αριθμός, η αρχή, η γη, το δέντρο, η ελπίδα, η εργασία, η ερώτηση, ο θάνατος, η θάλασσα, η ιδέα, ο καιρός, η καρδιά, το κεφάλι, ο λόγος, το μέρος, ο ουρανός, η περίπτωση, η πόλη, η στιγμή, το τέλος, ο τόπος, ο τρόπος, η φωνή, η χώρα
 
 
-## 40 Irregular Modern Greek Nouns with Articles
+### 40 Irregular Modern Greek Nouns with Articles
 
 This subdeck covers irregular and anomalous noun patterns that don't follow standard declension rules, including imparisyllabic nouns (ανισοσύλλαβα), which add a syllable in the plural, and a bunch of cool nouns derived from ancient greek, including some old-timey neuter participles still giving valorous service as nouns here in modernity. Three of this deck (το μέλλον, το παρόν, η ηχώ) don't have plurals, so the total number of cards is 428.
 
