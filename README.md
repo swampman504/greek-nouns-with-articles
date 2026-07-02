@@ -1,4 +1,4 @@
-# Modern Greek Noun / Article Declension Drilling: 90 Common and/or Usefully Irregular Nouns with Articles
+# Modern Greek Noun / Article Declension Trainer: 90 Common and/or Usefully Irregular Nouns with Articles
 
 This is an Anki deck covering (for now) 90 frequently used Modern Greek nouns, with cards spanning all possible combinations of cases, singular/plural, and definite/indefinite articles. 
 
